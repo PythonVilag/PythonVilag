@@ -9,7 +9,6 @@ A célom a weboldallal a Python programozási nyelv és az ehhez kapcsolódó le
 Mindezt **magyar nyelven** és teljesen **ingyenesen**!
 
 
-Ha felkeltettem az érdeklődésedet nézd meg a lentebbi bemutatkozó videót vagy leckéim egyikét!
+Ha felkeltettem az érdeklődésedet látogass el a [YouTube csatornámra](https://www.youtube.com/channel/UCw3S9gFOwiiCXGEijEJAqXA) vagy vedd fel velem a kapcsolatot [LinkedIn-en](https://www.linkedin.com/in/daniel-mizsak/)!
 
 
-[![Python Világ bemutatkozó videó](https://img.youtube.com/vi/Dd6t3POTyvE/0.jpg)](https://www.youtube.com/watch?v=Dd6t3POTyvE)
